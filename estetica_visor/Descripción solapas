@@ -1,0 +1,15 @@
+equipamiento_urbano→ Equipamiento urbano→ Elementos de estructura y equipamiento urbana.
+geodesia_y_demarcacion→ Geodesia y demarcación → Geodesia y límites territoriales.
+geografia_social→ Geografia social → Elementos de Geografía Social
+habitat_e_infraestructura_social→ Hábitat e infraestructura social → Cultura, deporte, edificios
+hidrografia_y_oceanografia→ Hidrografía y oceanografía → Ríos, lagos, humedales, embalses, islas, etc.
+industria_y_servicios→ Industria y servicios → Industrias, producción agropecuaria, minería, energía, comunicaciones, etc.
+planeamiento_y_catastro→ Planeamiento y catastro → Planeamiento y catastro
+relieve_y_suelo→ Relieve y suelo → Cerros, volcanes, glaciares, etc.
+salud_y_educacion→ Salud y educación → Establecimientos de salud y educación.
+seguridad→ Seguridad → OG de seguridad
+transporte→ Transporte → Aeropuertos, aeródromos, red vial, red ferroviaria, etc.
+vegetacion_natural_y_de_cultivo→ Vegetación natural y de cultivo → Vegetación natural y de cultivo.
+Fotogrametría → Relevamientos fotogramétricos, ortomosaicos, etc. → acá se debe mostrar el vuelo vant y el mde visual. 
+ortomosaico vuelo: https://imagenes.ign.gob.ar/geoserver/ortomosaicos_vant/wms?service=WMS&version=1.1.0&request=GetMap&layers=ortomosaicos_vant:general_roca_2021&styles=&bbox=-7533547.623312094,-4726986.566208018,-7516016.149178375,-4719781.529727906&width=768&height=330&srs=EPSG:3857&format=application/openlayers
+falta el mde visual aún.
