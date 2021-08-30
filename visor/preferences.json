@@ -1,0 +1,59 @@
+{
+  "table": {
+    "isActive": false,
+    "rowsLimit": 5
+  },
+  "charts": {
+    "isActive": true
+  },
+  "metaTags": {
+    "title": "",
+    "description": "",
+    "image": ""
+  },
+  "analytics_ids": [],
+  "excluded_plugins": ["minimap"],
+  "mapConfig": {
+    "center": {
+      "latitude": -39.0552,
+      "longitude": -67.5543
+    },
+    "zoom": {
+      "initial": 11,
+      "min": 3,
+      "max": 21
+    }
+  },
+  "showSearchBar": false,
+  "referencias": {
+    "show": true,
+    "src": "src/styles/images/referencias_icono.png",
+    "width":"25px",
+    "height":"31px"
+  },
+  "theme": {
+    "bodyBackground": "#ffffff",
+    "headerBackground": "#ffffff",
+    "menuBackground": "#007cc2 ",
+    "activeLayer": "#dededc",
+    "textMenu":"white",
+    "textMenuStyle":"",
+    "textLegendMenu":"#9eb7cb",
+    "textLegendMenuStyle":"",
+    "iconBar":"#30a0b6"
+    },
+  "logo": {
+    "title":"Municipio General Roca",
+    "src": "src/config/styles/images/logo.png",
+    "height": "50%",
+    "width": "",
+    "style": "",
+    "srcLogoMini": "src/config/styles/images/logo.png",
+    "miniHeight": "50%",
+    "miniWidth": "",
+    "ministyle": ""
+  },
+  "title": "Visor Mapas General Roca",
+  "website": "https://www.generalroca.gov.ar/",
+  "favicon": "src/config/styles/images/favicon.ico"
+}

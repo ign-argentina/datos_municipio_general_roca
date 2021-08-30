@@ -1,0 +1,7 @@
+    <meta name="description" content="Argenmap - Visor de mapas desarrollado por el Instituto Geográfico Nacional">
+    <meta name="author" content="Instituto Geográfico Nacional">
+    <meta property="og:url" content="https://mapamuni.ign.gob.ar/generalroca/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Municipio General Roca - Visor de mapas Argenmap " />
+    <meta property="og:description" content="Visor de mapas desarrollado por el Instituto Geográfico Nacional" />
+    <meta property="og:image" content="https://mapamuni.ign.gob.ar/generalroca/src/config/styles/images/gralroca.png" />
