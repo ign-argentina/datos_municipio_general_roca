@@ -1,8 +1,17 @@
 .active-layers-counter{
-  color:white !important;
+  color:#007cc2  !important;
 }
 
 .tabulator-page.active {
   color: white !important;
   background-color:rgb(51, 122, 183) !important;
+}
+
+
+#top-right-logo{
+  filter: invert(0.2);
+}
+
+.list-group-item.active span{
+color: #337ab7;
 }

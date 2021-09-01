@@ -1,7 +1,18 @@
-    <meta name="description" content="Argenmap - Visor de mapas desarrollado por el Instituto Geográfico Nacional">
-    <meta name="author" content="Instituto Geográfico Nacional">
-    <meta property="og:url" content="https://mapamuni.ign.gob.ar/generalroca/" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="Municipio General Roca - Visor de mapas Argenmap " />
-    <meta property="og:description" content="Visor de mapas desarrollado por el Instituto Geográfico Nacional" />
-    <meta property="og:image" content="https://mapamuni.ign.gob.ar/generalroca/src/config/styles/images/gralroca.png" />
+<!-- Primary Meta Tags -->
+<title>Municipio General Roca - Visor de mapas Argenmap</title>
+<meta name="title" content="Municipio General Roca - Visor de mapas Argenmap">
+<meta name="description" content="Argenmap - Visor de mapas desarrollado por el Instituto Geográfico Nacional">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://mapamuni.ign.gob.ar/generalroca/">
+<meta property="og:title" content="Municipio General Roca - Visor de mapas Argenmap">
+<meta property="og:description" content="Argenmap - Visor de mapas desarrollado por el Instituto Geográfico Nacional">
+<meta property="og:image" content="https://mapamuni.ign.gob.ar/generalroca/src/config/styles/images/gralroca6.png">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://mapamuni.ign.gob.ar/generalroca/">
+<meta property="twitter:title" content="Municipio General Roca - Visor de mapas Argenmap">
+<meta property="twitter:description" content="Argenmap - Visor de mapas desarrollado por el Instituto Geográfico Nacional">
+<meta property="twitter:image" content="https://mapamuni.ign.gob.ar/generalroca/src/config/styles/images/gralroca6.png">
